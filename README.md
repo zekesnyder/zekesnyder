@@ -11,10 +11,10 @@ Sport Analytics major at **Syracuse University** (graduating May 2027) with a mi
 
 ## Featured projects
 
-### [Syracuse Softball Analytics App](LINK-TO-REPO)
-An interactive Shiny app with pitcher and hitter analysis, spray charts, and leaderboards, styled with Syracuse branding. [Live app](LINK-TO-SHINYAPPS)
+### [Syracuse Softball Analytics App](https://github.com/zekesnyder/Shiny-App-for-Syracuse-Softball)
+An interactive Shiny app with pitcher and hitter analysis, spray charts, and leaderboards, styled with Syracuse branding. [Live app](http://127.0.0.1:6871)
 
-### [NBA Point Guard Height and Offensive Efficiency](LINK-TO-REPO)
+### [NBA Point Guard Height and Offensive Efficiency](https://github.com/zekesnyder/Point-Guard-Height-Effect-NBA-Project-)
 An independent research project examining whether point guard height relates to offensive efficiency, using data from Basketball-Reference and the NBA API, with a literature review and regression analysis in Python.
 
 ### [CFB Playoff Simulation](LINK-TO-REPO)
