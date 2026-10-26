@@ -17,7 +17,7 @@ An interactive Shiny app with pitcher and hitter analysis, spray charts, and lea
 ### [NBA Point Guard Height and Offensive Efficiency](https://github.com/zekesnyder/Point-Guard-Height-Effect-NBA-Project-)
 An independent research project examining whether point guard height relates to offensive efficiency, using data from Basketball-Reference and the NBA API, with a literature review and regression analysis in Python.
 
-### [CFB Playoff Simulation](LINK-TO-REPO)
+### [CFB Playoff Simulation](https://github.com/zekesnyder/CFB-Playoff-Simulation-)
 A simulation of the 2024 College Football Playoffs. Built using Monte Carlo simulation techniques, using Play-by-Play data from Pro Football Focus of the 2024 season.
 
 ## Experience
