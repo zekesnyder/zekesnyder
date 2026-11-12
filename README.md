@@ -28,7 +28,7 @@ A simulation of the 2024 College Football Playoffs. Built using Monte Carlo simu
 ## Get in touch
 
 - 📧 zekesnyder0@gmail.com
-- 💼 [LinkedIn](www.linkedin.com/in/ezekiel-snyder-39233a28b)
+- 💼 www.linkedin.com/in/ezekiel-snyder-39233a28b
 
 
 <!--
